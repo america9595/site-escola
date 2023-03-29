@@ -1,1 +1,14 @@
-header{background-color:#008cff;color:white;}
+.cabeçalho {
+    background-color:#001aff;
+color:white;
+display: flex;
+justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 30%;
+}
+
+.cabeçalho-lista-item{ 
+    display: inline-block;
+}
